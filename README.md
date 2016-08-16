@@ -1,4 +1,4 @@
 # hello-world
 Respositório Teste
 
-Vamos lá, enbarcando nesta nova aventura muito louca!
+Vamos lá, embarcando nesta nova aventura muito louca!
